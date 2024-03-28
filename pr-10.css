@@ -1,0 +1,10 @@
+.the{
+    background-color: black;
+}
+.fa-moon{
+    color: white;
+}
+.main1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.8)), url(https://preview.colorlib.com/theme/interior/img/banner-bg.jpg);
+    height: 100vh;
+}
